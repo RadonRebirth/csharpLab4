@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace csharpLab4
 {
-    class Student
+    struct Student
     {
         public string FullName;
         public int GroupId;
